@@ -1,0 +1,16 @@
+{
+  "name": "NorthArrow",
+  "platform": "HTML",
+  "version": "1.4",
+  "wabVersion": "1.4",
+  "author": "Grant Carroll",
+  "description": "Simply displays a north arrow",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": false,
+    "hasUIFile": false,
+    "hasConfig": false,
+    "supportMultiInstance": false
+  }
+}
