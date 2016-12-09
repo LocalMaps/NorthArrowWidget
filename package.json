@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "@localmaps/NorthArrowWidget",
   "description": "This widget places a north arrow on the map",
   "files": [ "src/widgets" ],

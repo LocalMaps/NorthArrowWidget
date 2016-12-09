@@ -1,10 +1,12 @@
 .jimu-widget-northarrow {
-
-	border-radius: 5px;
-    background-image:url('/widgets/NorthArrow/images/north-arrow.svg');
-    background-size: 60px 80px;
+    border-radius: 5px;
+    background-image:url('../images/north-arrow.svg');
+    background-size: 45px 60px;
     background-repeat: no-repeat;
     width: 60px !important;
     height: 80px !important;
+    position: absolute;
+    bottom: 36px !important;
+    left: 18px !important;
 }
 
